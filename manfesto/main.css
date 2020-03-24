@@ -1,0 +1,125 @@
+#header {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 60px;
+    color: rgba(148, 187, 233, 1);
+    padding: 60px;
+    background-color: antiquewhite;
+    margin: -9px;
+    letter-spacing: 1px;
+
+}
+
+#header:hover {
+    color: antiquewhite
+}
+
+#image {
+
+    text-align: center;
+    padding: 0px;
+    margin: -20px
+}
+
+img {
+    border-radius: 100%;
+    height: 200px;
+
+}
+
+#lineTwo {
+    font-size: 40px;
+    color: rgba(148, 187, 233, 1);
+    text-align: center;
+
+}
+
+#lineTwo:hover {
+    color: antiquewhite;
+}
+
+#lineThree {
+    font-size: 40px;
+    color: rgba(148, 187, 233, 1);
+    text-align: center;
+
+}
+
+#lineThree:hover {
+    color: antiquewhite;
+}
+
+#lineFour {
+    font-size: 40px;
+    color: rgba(148, 187, 233, 1);
+    text-align: center;
+
+}
+
+#lineFour:hover {
+    color: antiquewhite;
+}
+
+#lineFive {
+    font-size: 40px;
+    color: rgba(148, 187, 233, 1);
+    text-align: center;
+
+}
+
+#lineFive:hover {
+    color: antiquewhite;
+}
+
+#lineSix {
+    font-size: 40px;
+    color: rgba(148, 187, 233, 1);
+    text-align: center;
+
+}
+
+#lineSix:hover {
+    color: antiquewhite;
+}
+
+#lineSeven {
+    font-size: 40px;
+    color: rgba(148, 187, 233, 1);
+
+
+}
+
+#lineSeven:hover {
+    color: antiquewhite;
+}
+
+#lineEight {
+    font-size: 40px;
+    color: rgba(148, 187, 233, 1);
+    text-align: center;
+
+}
+
+#lineEight:hover {
+    color: antiquewhite;
+}
+
+#lineNine {
+    font-size: 40px;
+    color: rgba(148, 187, 233, 1);
+    text-align: center;
+
+}
+
+#lineNine:hover {
+    color: antiquewhite;
+}
+
+a{
+    color: blanchedalmond;
+    text-align: center
+}
+
+html {
+    background: rgba(148, 187, 233, 1)
+}
