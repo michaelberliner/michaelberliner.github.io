@@ -13,8 +13,11 @@ a {
     display: inline;
     font: bold;
     text-align: center;
-    padding: 20px;
-    font-size: 6vw;
+    padding-bottom: 2vw;
+    padding-left: 2vw;
+    padding-right:2vw;
+    padding-top: 2vw;
+    font-size: 2vw;
 
 }
 
