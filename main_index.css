@@ -11,6 +11,10 @@ a {
     color: pink;
     text-decoration: none;
     display: inline;
+    font: bold;
+    text-align: center;
+    padding: 20px;
+    font-size: 70px;
 
 }
 
