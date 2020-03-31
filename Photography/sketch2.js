@@ -1,8 +1,11 @@
+function windowResized(){
+    resizeCanvas(windowWidth, windowHeight);
+}
 
 
 function setup() {
   canvas = createCanvas(windowWidth, windowHeight);
-    canvas.position(0,0);
+    canvas.position(0,100);
     canvas.style('z-index','-1');
   
   }
