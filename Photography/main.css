@@ -7,13 +7,13 @@ html{
     background-size: cover;
 }
 .background{
-    background-image: url(GenerativeDrawingOne_2020_03_31_06_59_29.zip);
+    overflow: visible;
     background-attachment: fixed;
     
 }
 
 .centerOne{
-    background-attachment: scroll;
+  
       display: block;
   margin-left: auto;
   margin-right: auto;
@@ -23,7 +23,7 @@ html{
 }
 
 .centerTwo{
-        background-attachment: scroll;
+        
      display: block;
   margin-left: auto;
   margin-right: auto; 
@@ -33,7 +33,7 @@ html{
 }
 
 .centerThree{
-        background-attachment: scroll;
+     
        display: block;
   margin-left: auto;
   margin-right: auto;
@@ -43,7 +43,7 @@ html{
 }
 
 .centerFour{
-        background-attachment: scroll;
+       
        display: block;
   margin-left: auto;
   margin-right: auto;
@@ -53,7 +53,7 @@ html{
 }
 
 .centerFive{
-        background-attachment: scroll;
+        
        display: block;
   margin-left: auto;
   margin-right: auto;
@@ -63,7 +63,7 @@ html{
 }
 
 .centerSix{
-        background-attachment: scroll;
+     
       display: block;
   margin-left: auto;
   margin-right: auto;
@@ -73,7 +73,7 @@ html{
 }
 
 .centerSeven{
-        background-attachment: scroll;
+        
        display: block;
   margin-left: auto;
   margin-right: auto;
@@ -83,7 +83,7 @@ html{
 }
 
 .centerEight{
-        background-attachment: scroll;
+        
        display: block;
   margin-left: auto;
   margin-right: auto;
@@ -93,7 +93,7 @@ html{
 }
 
 .centerNine{
-        background-attachment: scroll;
+       
       display: block;
   margin-left: auto;
   margin-right: auto;
@@ -103,7 +103,7 @@ html{
 }
 
 .centerTen{
-        background-attachment: scroll;
+      
       display: block;
   margin-left: auto;
   margin-right: auto;
@@ -113,7 +113,7 @@ html{
 }
 
 .centerEleven{
-        background-attachment: scroll;
+    
       display: block;
   margin-left: auto;
   margin-right: auto;
@@ -123,7 +123,7 @@ html{
 }
 
 .centerTwelve{
-        background-attachment: scroll;
+    
       display: block;
   margin-left: auto;
   margin-right: auto;
@@ -133,7 +133,7 @@ html{
 }
 
 .centerThirt{
-    background-attachment: scroll;
+
       display: block;
   margin-left: auto;
   margin-right: auto;
@@ -143,7 +143,7 @@ html{
 }
 
 .centerFourth{
-    background-attachment: scroll;
+    
       display: block;
   margin-left: auto;
   margin-right: auto;
@@ -153,7 +153,7 @@ html{
 }
 
 .centerFifth{
-    background-attachment: scroll;
+   
       display: block;
   margin-left: auto;
   margin-right: auto;
@@ -163,7 +163,7 @@ html{
 }
 
 .centerSixth{
-    background-attachment: scroll;
+    
       display: block;
   margin-left: auto;
   margin-right: auto;
@@ -173,7 +173,7 @@ html{
 }
 
 .centerSeventh{
-    background-attachment: scroll;
+   
       display: block;
   margin-left: auto;
   margin-right: auto;
@@ -183,7 +183,7 @@ html{
 }
 
 .centerEighth{
-    background-attachment: scroll;
+    
       display: block;
   margin-left: auto;
   margin-right: auto;
@@ -193,7 +193,7 @@ html{
 }
 
 .centerNinth{
-    background-attachment: scroll;
+   
       display: block;
   margin-left: auto;
   margin-right: auto;
