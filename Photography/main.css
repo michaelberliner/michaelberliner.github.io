@@ -4,4 +4,120 @@ head {
 
 html{
     margin:-7;
+    background-size: cover;
+}
+.background{
+    background-image: url(GenerativeDrawingOne_2020_03_31_06_59_29.zip);
+    background-attachment: fixed;
+    
+}
+
+.centerOne{
+    background-attachment: scroll;
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+    margin-bottom: 3vw;
+    margin-top: 3vw;
+  width: 50%;
+}
+
+.centerTwo{
+        background-attachment: scroll;
+     display: block;
+  margin-left: auto;
+  margin-right: auto; 
+    margin-bottom: 3vw;
+    margin-top: 3vw;
+  width: 50%;
+}
+
+.centerThree{
+        background-attachment: scroll;
+       display: block;
+  margin-left: auto;
+  margin-right: auto;
+      margin-bottom: 3vw;
+    margin-top: 3vw;
+  width: 50%;
+}
+
+.centerFour{
+        background-attachment: scroll;
+       display: block;
+  margin-left: auto;
+  margin-right: auto;
+      margin-bottom: 3vw;
+    margin-top: 3vw;
+  width: 50%;
+}
+
+.centerFive{
+        background-attachment: scroll;
+       display: block;
+  margin-left: auto;
+  margin-right: auto;
+     margin-bottom: 3vw;
+    margin-top: 3vw;
+  width: 50%;
+}
+
+.centerSix{
+        background-attachment: scroll;
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+     margin-bottom: 3vw;
+    margin-top: 3vw;
+  width: 50%;
+}
+
+.centerSeven{
+        background-attachment: scroll;
+       display: block;
+  margin-left: auto;
+  margin-right: auto;
+      margin-bottom: 3vw;
+    margin-top: 3vw;
+  width: 50%;
+}
+
+.centerEight{
+        background-attachment: scroll;
+       display: block;
+  margin-left: auto;
+  margin-right: auto;
+     margin-bottom: 3vw;
+    margin-top: 3vw;
+  width: 50%;
+}
+
+.centerNine{
+        background-attachment: scroll;
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+     margin-bottom: 3vw;
+    margin-top: 3vw;
+  width: 50%;
+}
+
+.centerTen{
+        background-attachment: scroll;
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+     margin-bottom: 3vw;
+    margin-top: 3vw;
+  width: 50%;
+}
+
+.centerEleven{
+        background-attachment: scroll;
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+     margin-bottom: 3vw;
+    margin-top: 3vw;
+  width: 50%;
 }

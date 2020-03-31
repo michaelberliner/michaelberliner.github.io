@@ -1,5 +1,6 @@
 function windowResized(){
     resizeCanvas(windowWidth, windowHeight);
+    
 }
 function setup() {
   canvas = createCanvas(windowWidth, windowHeight);
@@ -10,6 +11,7 @@ function setup() {
 
 
 function draw() {
+   
    for (let i=0; i<60; i++){
      let i
   fill(random(i), random(255), random(255), random(100));
