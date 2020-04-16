@@ -2,7 +2,7 @@
     font-family: 'Luckiest Guy', cursive;
     text-align: center;
     font-size: 200px;
-    color: rgba(148, 187, 233, 1);
+    color: #FFFF65;
      padding-bottom: 10vw;
     padding-left: 2vw;
     padding-right:2vw;
@@ -11,8 +11,9 @@
     margin: 0px;
 }
 
+
 a {
-    color: teal;
+    color: #FFFF65;
     text-decoration: none;
     display: inline;
     font-family: 'Luckiest Guy',cursive;
@@ -26,13 +27,15 @@ a {
     margin-bottom: 100vw;
 
 }
-
+#head:hover {
+    color: #FFFF99;
+}
 a:hover {
-    color: rgba(148, 187, 233, 1);
+    color: #FFFF99;
 }
 
 html {
-    background-color: rgba(244, 196, 6, 10);
+    background-color: #FFF130;
 }
 
 .b{
