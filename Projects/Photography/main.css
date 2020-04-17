@@ -1,8 +1,6 @@
-.centerOne {
-  display:block;
-    margin-bottom: 15vw;
-    margin-top: 15vw;
+.centerOne{
+  display: block;
     margin-left: auto;
-        margin-right:auto;
-    width: 50%;
+    margin-right: auto;
+    margin-top: 20px;
 }
