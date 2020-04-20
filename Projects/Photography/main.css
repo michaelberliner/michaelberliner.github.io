@@ -1,6 +1,6 @@
 .centerOne{
   display: inline-block;
-    float: center;
+    float: inherit;
     margin-left: auto;
     margin-right: auto;
     margin-top: 150px;
