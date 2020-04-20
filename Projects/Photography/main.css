@@ -1,7 +1,9 @@
 .centerOne{
-  display: block;
+  display: grid;
     margin-left: auto;
     margin-right: auto;
     margin-top: 150px;
 }
-
+a{
+    display: grid;
+}
