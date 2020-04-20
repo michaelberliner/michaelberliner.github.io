@@ -1,13 +1,13 @@
 .centerOne{
-  display: grid;
+  display: inline-block;
     float: center;
     margin-left: 0;
     margin-right: 0;
     margin-top: 150px;
 }
 a{
-    display: grid;
-    float: left;
+    display: inline-block;
+    float: right;
     margin-bottom: 0;
     margin-top: 0;
     margin-left: 0;
