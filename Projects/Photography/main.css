@@ -1,7 +1,7 @@
 .centerOne{
   display: inline-block;
     float: inherit;
-    margin-left: 60px;
+    margin-left: 4vw;
     margin-right: auto;
     margin-top: 150px;
 }
@@ -12,16 +12,16 @@
     margin-top: 310px;
     margin-left: 0;
     margin-right: 0;
-    padding: 10px;
+    padding: 8vw;
 }
 .buttonLeft{
     display: inline-block;
     float: left;
-    margin-bottom: 0;
+    margin-bottom: 0vw;
     margin-top: 310px;
-    margin-left: 0;
-    margin-right: 0;
-    padding: 10px;
+    margin-left: 0vw;
+    margin-right: 0vw;
+    padding: 8vw;
 }
 
 
