@@ -7,26 +7,26 @@ body {
 }
 
 .pink {
-    width: 900px;
-    height: 250px;
+    width: 1000px;
+    height: 240px;
     background-color: mistyrose;
 }
 
 .blue {
-    width: 900px;
-    height: 250px;
+    width: 1000px;
+    height: 240px;
     background-color: midnightblue;
 }
 
 .white {
     width: 80.5px;
-    height: 1000px;
+    height: 960px;
     background-color: aliceblue
 }
 
 .black {
     width: 75.9px;
-    height: 1000px;
+    height: 960px;
     background-color: black;
 }
 
@@ -37,13 +37,13 @@ body {
 
 .red {
     width: 138px;
-    height: 1000px;
+    height: 960px;
     background-color: darkred;
 }
 
 .darkBlue {
     width: 184px;
-    height: 1000px;
+    height: 960px;
     background-color: midnightblue;
 }
 
