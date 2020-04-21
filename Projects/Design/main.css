@@ -3,7 +3,7 @@ a {
     display: block;
     text-align: center;
     font-size: 3vw;
-    margin-top: 0.5vw;
+    margin-top: 2vw;
     color: rgba(250, 80, 93, 1);
     letter-spacing: 2px;
     text-decoration: none;
@@ -19,8 +19,7 @@ a {
     text-decoration: none;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 20%;
-    margin-top: 20%;
+    margin-top: 10%;
 
  
 
