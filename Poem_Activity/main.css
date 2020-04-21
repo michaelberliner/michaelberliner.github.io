@@ -1,26 +1,27 @@
 #head{
     font-family: cursive;
     font-size: 100px;
-    padding: 40px;
     color: darkred;
     text-align: center;
 }
 
 .english{
-    display: inline-block;
+    display: inline-grid;
+    float: right;
     color: aliceblue;
-    margin-top: -1000pt;
+    margin:0;
 }
 
 .french{
-    display: inline-block;
-    text-align: justify;
-    padding-left: 550px;
+    display: inline-grid;
+    margin: 0;
 }
 
 svg{
-    width: 100%;
-    height: 100%;
+    display: inline-grid;
+    margin: 0;
+    width: 80%;
+    height: 80%;
   
 }
 html{
