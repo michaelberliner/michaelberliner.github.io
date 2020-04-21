@@ -1,24 +1,4 @@
-<! DOCTYPE html>
-    <html>
-
-    <head>
-    <script src="https://cdn.jsdelivr.net/npm/p5@1.0.0/lib/p5.js"></script>
-    <script src="sketch.js"></script>
-</head>
-<style>
-    canvas {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 10%;
-        height: 100%;
-        z-index: -1;
-    }
-</style>
-
-<body>
-    <script>
-        function setup() {
+function setup() {
   createCanvas(windowWidth, windowHeight);
   colorMode(HSB);
   background(34, 33, 90);
@@ -64,5 +44,3 @@ function draw() {
       background(34,33,90);
     }
   }
-    </script>
-</body></html>
