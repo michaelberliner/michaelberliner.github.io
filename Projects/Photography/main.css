@@ -1,27 +1,27 @@
 .centerOne{
   display: inline-block;
     float: inherit;
-    margin-left: 4vw;
+    margin-left: 2vw;
     margin-right: auto;
     margin-top: 150px;
 }
 .buttonRight{
     display: inline-block;
     float: right;
-    margin-bottom: 0;
+    margin-bottom: auto;
     margin-top: 310px;
-    margin-left: 0;
-    margin-right: 0;
-    padding: 8vw;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2vw;
 }
 .buttonLeft{
     display: inline-block;
     float: left;
-    margin-bottom: 0vw;
+    margin-bottom: auto;
     margin-top: 310px;
-    margin-left: 0vw;
-    margin-right: 0vw;
-    padding: 8vw;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2vw;
 }
 
 
