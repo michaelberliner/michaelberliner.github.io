@@ -10,22 +10,25 @@
     float: right;
     color: aliceblue;
     margin:0;
+    margin-right: 200px;
 }
 
 .french{
     display: inline-grid;
     margin: 0;
+    margin-left: 200px;
 }
 
-svg{
+.svg{
     display: inline-grid;
-    margin: 0;
-    width: 80%;
-    height: 80%;
+    margin-top: -150px;
+    margin-bottom: -8px
+  
+   
   
 }
 html{
-    background-color: slategray;
+    background-color: coral;
     
 }
 
