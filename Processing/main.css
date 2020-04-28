@@ -1,9 +1,9 @@
 .centerOne{
   display: inline-block;
     float: inherit;
-    margin-left: 55px;
+    margin-left: 90px;
     margin-right: auto;
-    margin-top: 150px;
+    margin-top: 50px;
 }
 .buttonRight{
     display: inline-block;
@@ -22,4 +22,7 @@
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
+}
+html{
+    background-color: antiquewhite;
 }
