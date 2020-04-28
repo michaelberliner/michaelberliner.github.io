@@ -63,7 +63,7 @@ img {
     display: inline-block;
     font-size: 40px;
     color: rgba(148, 187, 233, 1);
-    float:right;
+    text-align: right;
     margin-left: auto;
     margin-right: auto;
 
@@ -78,7 +78,7 @@ img {
     display: inline-block;
     font-size: 40px;
     color: rgba(148, 187, 233, 1);
-    float:left;
+    text-align: left;
     margin-left: auto;
     margin-right: auto;
 
@@ -93,7 +93,7 @@ img {
     display: inline-block;
     font-size: 40px;
     color: rgba(148, 187, 233, 1);
-    text-align: center;
+    text-align: right;
      margin-left: auto;
     margin-right: auto;
 
@@ -119,7 +119,7 @@ img {
 }
 ul li{
     list-style-type:circle;
-    text-align: right;
+    text-align: left;
 }
 
 #lineEight {
