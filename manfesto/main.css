@@ -30,7 +30,7 @@ img {
 #lineTwo {
     font-size: 40px;
     color: rgba(148, 187, 233, 1);
-    text-align: center;
+   float: left;
 
 }
 
@@ -52,7 +52,7 @@ img {
 #lineFour {
     font-size: 40px;
     color: rgba(148, 187, 233, 1);
-    text-align: center;
+    float:right;
 
 }
 
@@ -63,7 +63,7 @@ img {
 #lineFive {
     font-size: 40px;
     color: rgba(148, 187, 233, 1);
-    text-align: center;
+    float:left;
 
 }
 
@@ -85,7 +85,7 @@ img {
 #lineSeven {
     font-size: 40px;
     color: rgba(148, 187, 233, 1);
-
+    float:right;
 
 }
 
@@ -107,7 +107,7 @@ img {
 #lineNine {
     font-size: 40px;
     color: rgba(148, 187, 233, 1);
-    text-align: center;
+    float: left;
 
 }
 
@@ -117,7 +117,7 @@ img {
 
 a{
     color: blanchedalmond;
-    text-align: center
+    float:left;
 }
 
 html {
