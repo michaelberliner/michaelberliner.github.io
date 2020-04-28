@@ -28,9 +28,14 @@ img {
 }
 
 #lineTwo {
+    width: 100%;
+    display: inline-block;
     font-size: 40px;
     color: rgba(148, 187, 233, 1);
    float: left;
+      margin-left: auto;
+    margin-right: auto;
+    
 
 }
 
@@ -39,9 +44,13 @@ img {
 }
 
 #lineThree {
+    width: 100%;
+    display: inline-block;
     font-size: 40px;
     color: rgba(148, 187, 233, 1);
     text-align: center;
+     margin-left: auto;
+    margin-right: auto;
 
 }
 
@@ -50,9 +59,13 @@ img {
 }
 
 #lineFour {
+     width: 100%;
+    display: inline-block;
     font-size: 40px;
     color: rgba(148, 187, 233, 1);
     float:right;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
@@ -61,9 +74,13 @@ img {
 }
 
 #lineFive {
+     width: 100%;
+    display: inline-block;
     font-size: 40px;
     color: rgba(148, 187, 233, 1);
     float:left;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
@@ -72,9 +89,13 @@ img {
 }
 
 #lineSix {
+     width: 100%;
+    display: inline-block;
     font-size: 40px;
     color: rgba(148, 187, 233, 1);
     text-align: center;
+     margin-left: auto;
+    margin-right: auto;
 
 }
 
@@ -83,20 +104,32 @@ img {
 }
 
 #lineSeven {
+     width: 100%;
+    display: inline-block;
     font-size: 40px;
     color: rgba(148, 187, 233, 1);
-    float:right;
+   float: left;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
 #lineSeven:hover {
     color: antiquewhite;
 }
+ul li{
+    list-style-type:circle;
+    text-align: right;
+}
 
 #lineEight {
+     width: 100%;
+    display: inline-block;
     font-size: 40px;
     color: rgba(148, 187, 233, 1);
-    text-align: center;
+   text-align: center;
+     margin-left: auto;
+    margin-right: auto;
 
 }
 
@@ -105,9 +138,13 @@ img {
 }
 
 #lineNine {
+     width: 100%;
+    display: inline-block;
     font-size: 40px;
     color: rgba(148, 187, 233, 1);
     float: left;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
@@ -116,8 +153,12 @@ img {
 }
 
 a{
+     width: 100%;
+    display: inline-block;
     color: blanchedalmond;
     float:left;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 html {
