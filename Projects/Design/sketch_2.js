@@ -4,7 +4,7 @@ let toilet = [6,5,7,7,8,9,10,8,7,6,7,7,8,9,9,8,7,7,6,5,5];
 
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(1200, 800);
   noLoop();
   colorMode(HSB, 360, 100, 100);
 
@@ -57,37 +57,37 @@ function draw() {
       stroke(255);
       fill(60, 60, 90);
       mappedToilet = map(toilet[i], 5, 20, height / 4, width);
-      ellipse(width/1.32,i*820/toilet.length,mappedToilet/2,width/toilet.length);
+      ellipse(width/1.2,i*820/toilet.length,mappedToilet/2,width/toilet.length);
     }
      if (toilet[i] == 6){
       stroke(255);
       fill(60, 60, 90);
       mappedToilet = map(toilet[i], 5, 20, height / 4, width);
-      ellipse(width/1.32,i*820/toilet.length,mappedToilet/2,width/toilet.length);
+      ellipse(width/1.2,i*820/toilet.length,mappedToilet/2,width/toilet.length);
     }
      if (toilet[i] == 7){
       stroke(255);
       fill(60, 60, 90);
       mappedToilet = map(toilet[i], 5, 20, height / 4, width);
-      ellipse(width/1.32,i*820/toilet.length,mappedToilet/2,width/toilet.length);
+      ellipse(width/1.2,i*820/toilet.length,mappedToilet/2,width/toilet.length);
     }
     if (toilet[i] == 8){
       stroke(255);
       fill(60, 60, 90);
       mappedToilet = map(toilet[i], 5, 20, height / 4, width);
-      ellipse(width/1.32,i*820/toilet.length,mappedToilet/2,width/toilet.length);
+      ellipse(width/1.2,i*820/toilet.length,mappedToilet/2,width/toilet.length);
     }
     if (toilet[i] == 9){
       stroke(255);
       fill(60, 60, 90);
       mappedToilet = map(toilet[i], 3, 20, height / 4, width);
-      ellipse(width/1.32,i*820/toilet.length,mappedToilet/2,width/toilet.length);
+      ellipse(width/1.2,i*820/toilet.length,mappedToilet/2,width/toilet.length);
     }
     if (toilet[i] == 10){
       stroke(255);
       fill(60, 60, 90);
       mappedToilet = map(toilet[i], 2, 20, height / 4, width);
-      ellipse(width/1.32,i*820/toilet.length,mappedToilet/2,width/toilet.length);
+      ellipse(width/1.2,i*820/toilet.length,mappedToilet/2,width/toilet.length);
     }
   }
  
