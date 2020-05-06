@@ -1,11 +1,17 @@
-                 function setup() {
+var canvas;
+function setup() {
   createCanvas(windowWidth, windowHeight);
   colorMode(HSB, 100);
   angleMode(DEGREES);
+  
+
+    
+  }
+
 
   
   
-}
+
 
 function draw() {
     

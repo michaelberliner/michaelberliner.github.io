@@ -5,3 +5,7 @@ a{
     color: white;
     font-size: 40px;
 }
+.background{
+    z-index: -1;
+    margin: -10px;
+}
