@@ -1,4 +1,7 @@
-                 function setup() {
+function windowResized(){
+    resizeCanvas(windowWidth, windowHeight);
+}
+function setup() {
   var cnv = createCanvas(windowWidth, windowHeight);
   colorMode(HSB, 100);
   angleMode(DEGREES);
