@@ -1,7 +1,11 @@
                  function setup() {
-  createCanvas(windowWidth, windowHeight);
+  var cnv = createCanvas(windowWidth, windowHeight);
   colorMode(HSB, 100);
   angleMode(DEGREES);
+ cnv.style('display','block');
+cnv.style('z-index','-1');    
+cnv.position(0,0);   
+                     
 
   
   
@@ -16,7 +20,7 @@ function draw() {
   let d=day();
   let mo=month();
   let mi=minute();
-      background(40,100,60);
+     background(40,100,60);
     
      push();
   let t = ('\n'+d+h+s+y+mo+mi);
